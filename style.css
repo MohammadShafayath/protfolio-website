@@ -1,0 +1,18 @@
+body{
+    font-family: 'Xanh Mono', monospace;
+}
+h1 {
+font-size: 40px;
+}
+.name-highlight {
+    color: gold;
+}
+.description {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.description img{
+    width: 100%;
+}
